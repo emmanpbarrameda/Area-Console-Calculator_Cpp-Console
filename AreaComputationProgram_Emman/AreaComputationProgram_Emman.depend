@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686155949 source:d:\programming projects\codeblocks files\projects\c++\areacomputationprogram_emman\main.cpp
+	<iostream>
+	<unistd.h>
+	<iostream>
+	<limits>
+
